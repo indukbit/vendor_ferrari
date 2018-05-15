@@ -1,5 +1,5 @@
 # Copyright (C) 2015-2016 The CyanogenMod Project
-# Copyright (C) 2017 The LineageOS Project
+# Copyright (C) 2017-2018 The LineageOS Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -17,7 +17,6 @@
 
 PRODUCT_COPY_FILES += \
     vendor/xiaomi/ferrari/proprietary/bin/adsprpcd:system/bin/adsprpcd \
-    vendor/xiaomi/ferrari/proprietary/bin/btnvtool:system/bin/btnvtool \
     vendor/xiaomi/ferrari/proprietary/bin/hci_qcomm_init:system/bin/hci_qcomm_init \
     vendor/xiaomi/ferrari/proprietary/bin/irsc_util:system/bin/irsc_util \
     vendor/xiaomi/ferrari/proprietary/bin/mm-pp-daemon:system/bin/mm-pp-daemon \
@@ -27,7 +26,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/ferrari/proprietary/bin/qmuxd:system/bin/qmuxd \
     vendor/xiaomi/ferrari/proprietary/bin/qseecomd:system/bin/qseecomd \
     vendor/xiaomi/ferrari/proprietary/bin/radish:system/bin/radish \
-    vendor/xiaomi/ferrari/proprietary/bin/readmac:system/bin/readmac \
     vendor/xiaomi/ferrari/proprietary/bin/rmt_storage:system/bin/rmt_storage \
     vendor/xiaomi/ferrari/proprietary/bin/time_daemon:system/bin/time_daemon \
     vendor/xiaomi/ferrari/proprietary/etc/acdbdata/MTP/MTP_WCD9306_Bluetooth_cal.acdb:system/etc/acdbdata/MTP/MTP_WCD9306_Bluetooth_cal.acdb \
