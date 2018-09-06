@@ -28,20 +28,20 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/ferrari/proprietary/vendor/bin/radish:system/vendor/bin/radish \
     vendor/xiaomi/ferrari/proprietary/vendor/bin/rmt_storage:system/vendor/bin/rmt_storage \
     vendor/xiaomi/ferrari/proprietary/vendor/bin/time_daemon:system/vendor/bin/time_daemon \
-    vendor/xiaomi/ferrari/proprietary/vendor/etc/firmware/a420_pfp.fw:system/vendor/etc/firmware/a420_pfp.fw \
-    vendor/xiaomi/ferrari/proprietary/vendor/etc/firmware/a420_pm4.fw:system/vendor/etc/firmware/a420_pm4.fw \
-    vendor/xiaomi/ferrari/proprietary/vendor/etc/firmware/cpp_firmware_v1_1_1.fw:system/vendor/etc/firmware/cpp_firmware_v1_1_1.fw \
-    vendor/xiaomi/ferrari/proprietary/vendor/etc/firmware/cpp_firmware_v1_1_6.fw:system/vendor/etc/firmware/cpp_firmware_v1_1_6.fw \
-    vendor/xiaomi/ferrari/proprietary/vendor/etc/firmware/cpp_firmware_v1_2_0.fw:system/vendor/etc/firmware/cpp_firmware_v1_2_0.fw \
-    vendor/xiaomi/ferrari/proprietary/vendor/etc/firmware/cpp_firmware_v1_4_0.fw:system/vendor/etc/firmware/cpp_firmware_v1_4_0.fw \
-    vendor/xiaomi/ferrari/proprietary/vendor/etc/firmware/seltech_mono.cnt:system/vendor/etc/firmware/seltech_mono.cnt \
-    vendor/xiaomi/ferrari/proprietary/vendor/etc/firmware/venus.b00:system/vendor/etc/firmware/venus.b00 \
-    vendor/xiaomi/ferrari/proprietary/vendor/etc/firmware/venus.b01:system/vendor/etc/firmware/venus.b01 \
-    vendor/xiaomi/ferrari/proprietary/vendor/etc/firmware/venus.b02:system/vendor/etc/firmware/venus.b02 \
-    vendor/xiaomi/ferrari/proprietary/vendor/etc/firmware/venus.b03:system/vendor/etc/firmware/venus.b03 \
-    vendor/xiaomi/ferrari/proprietary/vendor/etc/firmware/venus.b04:system/vendor/etc/firmware/venus.b04 \
-    vendor/xiaomi/ferrari/proprietary/vendor/etc/firmware/venus.mbn:system/vendor/etc/firmware/venus.mbn \
-    vendor/xiaomi/ferrari/proprietary/vendor/etc/firmware/venus.mdt:system/vendor/etc/firmware/venus.mdt \
+    vendor/xiaomi/ferrari/proprietary/vendor/firmware/a420_pfp.fw:system/vendor/firmware/a420_pfp.fw \
+    vendor/xiaomi/ferrari/proprietary/vendor/firmware/a420_pm4.fw:system/vendor/firmware/a420_pm4.fw \
+    vendor/xiaomi/ferrari/proprietary/vendor/firmware/cpp_firmware_v1_1_1.fw:system/vendor/firmware/cpp_firmware_v1_1_1.fw \
+    vendor/xiaomi/ferrari/proprietary/vendor/firmware/cpp_firmware_v1_1_6.fw:system/vendor/firmware/cpp_firmware_v1_1_6.fw \
+    vendor/xiaomi/ferrari/proprietary/vendor/firmware/cpp_firmware_v1_2_0.fw:system/vendor/firmware/cpp_firmware_v1_2_0.fw \
+    vendor/xiaomi/ferrari/proprietary/vendor/firmware/cpp_firmware_v1_4_0.fw:system/vendor/firmware/cpp_firmware_v1_4_0.fw \
+    vendor/xiaomi/ferrari/proprietary/vendor/firmware/seltech_mono.cnt:system/vendor/firmware/seltech_mono.cnt \
+    vendor/xiaomi/ferrari/proprietary/vendor/firmware/venus.b00:system/vendor/firmware/venus.b00 \
+    vendor/xiaomi/ferrari/proprietary/vendor/firmware/venus.b01:system/vendor/firmware/venus.b01 \
+    vendor/xiaomi/ferrari/proprietary/vendor/firmware/venus.b02:system/vendor/firmware/venus.b02 \
+    vendor/xiaomi/ferrari/proprietary/vendor/firmware/venus.b03:system/vendor/firmware/venus.b03 \
+    vendor/xiaomi/ferrari/proprietary/vendor/firmware/venus.b04:system/vendor/firmware/venus.b04 \
+    vendor/xiaomi/ferrari/proprietary/vendor/firmware/venus.mbn:system/vendor/firmware/venus.mbn \
+    vendor/xiaomi/ferrari/proprietary/vendor/firmware/venus.mdt:system/vendor/firmware/venus.mdt \
     vendor/xiaomi/ferrari/proprietary/vendor/etc/permissions/qcnvitems.xml:system/vendor/etc/permissions/qcnvitems.xml \
     vendor/xiaomi/ferrari/proprietary/vendor/etc/permissions/qcrilhook.xml:system/vendor/etc/permissions/qcrilhook.xml \
     vendor/xiaomi/ferrari/proprietary/vendor/lib/libqminvapi.so:system/vendor/lib/libqminvapi.so \
