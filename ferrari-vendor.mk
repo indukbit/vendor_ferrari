@@ -513,6 +513,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/ferrari/proprietary/vendor/lib64/libsettings.so:system/vendor/lib64/libsettings.so \
     vendor/xiaomi/ferrari/proprietary/vendor/lib64/libsmemlog.so:system/vendor/lib64/libsmemlog.so \
     vendor/xiaomi/ferrari/proprietary/vendor/lib64/libssd.so:system/vendor/lib64/libssd.so \
+    vendor/xiaomi/ferrari/proprietary/vendor/lib64/libstlport.so:system/vendor/lib64/libstlport.so \
     vendor/xiaomi/ferrari/proprietary/vendor/lib64/libsystem_health_mon.so:system/vendor/lib64/libsystem_health_mon.so \
     vendor/xiaomi/ferrari/proprietary/vendor/lib64/libthermalclient.so:system/vendor/lib64/libthermalclient.so \
     vendor/xiaomi/ferrari/proprietary/vendor/lib64/libthermalioctl.so:system/vendor/lib64/libthermalioctl.so \
