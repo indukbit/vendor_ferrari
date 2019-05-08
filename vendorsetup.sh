@@ -1,1 +1,1 @@
-add_lunch_combo lineage_ferrari-userdebug
+add_lunch_combo ferrari-userdebug
